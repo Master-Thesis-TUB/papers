@@ -21286,4 +21286,333 @@ f
 0001114112 00000 n
 0001114461 00000 n
 0001114698 00000 n
-trailer<</Size 1459/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><D8A82ECCCBAE45C1ABC0142989A7DDAC>]/Prev 1105542>>startxref1115069%%EOF
+trailer<</Size 1459/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><D8A82ECCCBAE45C1ABC0142989A7DDAC>]/Prev 1105542>>startxref1115069%%EOF5 0 obj<</Length 3989/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <pdf:Producer>PDFLaTeX</pdf:Producer>
+         <pdf:Keywords>eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations</pdf:Keywords>
+         <xmp:ModifyDate>2020-03-14T16:15+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2019-12-23T23:53:20Z</xmp:CreateDate>
+         <xmp:CreatorTool>HAL</xmp:CreatorTool>
+         <xmp:MetadataDate>2020-03-14T16:15+01:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:7dc942ba-2a58-11e2-0000-934f71e96c4d</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:85a47c7c-84e2-8d4a-b439-9c694f1df56b</xmpMM:InstanceID>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A comprehensive study of Convergent and Commutative Replicated Data Types</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Marc Shapiro, Nuno Pregui√ßa, Carlos Baquero, Marek Zawirski</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Computer Science [cs]/Other [cs.OH]</rdf:li>
+               <rdf:li xml:lang="x-repair">Computer Science [cs]/Other [cs.OH]</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj6 0 obj<</Author(Marc Shapiro, Nuno PreguiÁa, Carlos Baquero, Marek Zawirski)/CreationDate(D:20191223235320Z)/Creator(HAL)/Keywords(eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations)/ModDate(D:20200314161500+01'00')/Producer(PDFLaTeX)/Subject(Computer Science [cs]/Other [cs.OH])/Title(A comprehensive study of Convergent and Commutative Replicated Data Types)>>endobj22 0 obj<</Annots[141 0 R 1459 0 R 1460 0 R]/Contents 142 0 R/CropBox[0.0 0.0 595.28 841.89]/MediaBox[0.0 0.0 595.28 841.89]/Parent 2 0 R/Resources 143 0 R/Rotate 0/Type/Page>>endobj1459 0 obj<</AP<</N 1461 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/CreationDate(D:20200314161500+01'00')/F 4/M(D:20200314161500+01'00')/NM(0401cb7b-182e-624c-b0df-3978d9320119)/P 22 0 R/Popup 1460 0 R/QuadPoints[116.366 592.001 496.081 592.001 116.366 582.038 496.081 582.038 99.2128 580.046 496.068 580.046 99.2128 570.083 496.068 570.083 99.2128 568.091 237.01 568.091 99.2128 558.128 237.01 558.128]/Rect[96.5532 557.817 498.74 592.312]/Subj(Highlight)/Subtype/Highlight/T(ankushsharma)/Type/Annot>>endobj1460 0 obj<</F 28/Open false/Parent 1459 0 R/Rect[595.28 478.001 799.28 592.001]/Subtype/Popup/Type/Annot>>endobj1461 0 obj<</BBox[0.0 0.0 402.187 34.4954]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1462 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj1462 0 obj<</BBox[0.0 0.0 402.187 34.4954]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1463 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj1463 0 obj<</BBox[96.5532 557.817 498.74 592.312]/Filter[/FlateDecode]/FormType 1/Length 198/Matrix[1.0 0.0 0.0 1.0 -96.5532 -557.817]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâTê;é√@@˚9'@¿0|Œ)iífõΩ˛‚ïm&ï•g~ÜÅ08ç~^É–D~≥·¥∞Bêf0|ä)˚*¶8√&l$—ñ,h/À#rxMC
+≤fÔbÅ*mn‰‹ﬁﬁ’œëâ¬RcNıva5¶5ÁÇ:yBGKW∏•(I◊]e:£ÿ§Ωçú´oÌ˙¸W”
+¨g7’eåP›Æ¶,t≠æ%§¸øîLØ•5{KúÀ£≈çúª€ªé™? dö]Äendstreamendobjxref
+0 1
+0000000000 65535 f
+5 2
+0001115520 00000 n
+0001119585 00000 n
+22 1
+0001120061 00000 n
+1459 5
+0001120246 00000 n
+0001120753 00000 n
+0001120869 00000 n
+0001121218 00000 n
+0001121455 00000 n
+trailer<</Size 1464/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><B57D7C74A7AB45B386DA0AA021DF0BD0>]/Prev 1115069>>startxref1121870%%EOF5 0 obj<</Length 3995/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <pdf:Producer>PDFLaTeX</pdf:Producer>
+         <pdf:Keywords>eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations</pdf:Keywords>
+         <xmp:ModifyDate>2020-03-14T16:45:33+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2019-12-23T23:53:20Z</xmp:CreateDate>
+         <xmp:CreatorTool>HAL</xmp:CreatorTool>
+         <xmp:MetadataDate>2020-03-14T16:45:33+01:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:7dc942ba-2a58-11e2-0000-934f71e96c4d</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:7e78764e-3183-dc45-8f6c-6667ae51a88c</xmpMM:InstanceID>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A comprehensive study of Convergent and Commutative Replicated Data Types</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Marc Shapiro, Nuno Pregui√ßa, Carlos Baquero, Marek Zawirski</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Computer Science [cs]/Other [cs.OH]</rdf:li>
+               <rdf:li xml:lang="x-repair">Computer Science [cs]/Other [cs.OH]</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj6 0 obj<</Author(Marc Shapiro, Nuno PreguiÁa, Carlos Baquero, Marek Zawirski)/CreationDate(D:20191223235320Z)/Creator(HAL)/Keywords(eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations)/ModDate(D:20200314164533+01'00')/Producer(PDFLaTeX)/Subject(Computer Science [cs]/Other [cs.OH])/Title(A comprehensive study of Convergent and Commutative Replicated Data Types)>>endobj24 0 obj<</Annots[146 0 R 147 0 R 148 0 R 1464 0 R 1465 0 R]/Contents 149 0 R/CropBox[0.0 0.0 595.28 841.89]/MediaBox[0.0 0.0 595.28 841.89]/Parent 2 0 R/Resources 150 0 R/Rotate 0/Type/Page>>endobj1464 0 obj<</AP<</N 1466 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/CreationDate(D:20200314164530+01'00')/F 4/M(D:20200314164530+01'00')/NM(881a3100-00cf-c745-89bd-1c70a4a93ce2)/P 24 0 R/Popup 1465 0 R/QuadPoints[116.367 561.353 496.088 561.353 116.367 551.39 496.088 551.39 99.2123 549.397 221.536 549.397 99.2123 539.435 221.536 539.435]/Rect[96.5527 539.123 498.748 561.664]/Subj(Highlight)/Subtype/Highlight/T(ankushsharma)/Type/Annot>>endobj1465 0 obj<</F 28/Open false/Parent 1464 0 R/Rect[595.28 447.353 799.28 561.353]/Subtype/Popup/Type/Annot>>endobj1466 0 obj<</BBox[0.0 0.0 402.195 22.5408]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1467 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj1467 0 obj<</BBox[0.0 0.0 402.195 22.5408]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1468 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj1468 0 obj<</BBox[96.5527 539.123 498.748 561.664]/Filter[/FlateDecode]/FormType 1/Length 155/Matrix[1.0 0.0 0.0 1.0 -96.5527 -539.123]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLé;1D˚ú¬'∞¸è}$hñÜÜÎ„,IÈßy„a LÆ`Ç◊cÜ»Ñ˜`‘à	ÓåZ§lfHú÷Lqj:l§ê»&,/⁄s)∏´@ ‘≈éfâ¶·À‹»Ø}y◊Ü€∏è*ñÜZù∑ÏaùÀ07∆Ÿ˘uO$+Üøc’EÛ,atççÕ3Õó∏ëoı“Æ˜Á¶è  ?˝endstreamendobjxref
+0 1
+0000000000 65535 f
+5 2
+0001122235 00000 n
+0001126306 00000 n
+24 1
+0001126782 00000 n
+1464 5
+0001126983 00000 n
+0001127427 00000 n
+0001127543 00000 n
+0001127892 00000 n
+0001128129 00000 n
+trailer<</Size 1469/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><FD12B4CE055C40E5B1E2A5A5B93C73CD>]/Prev 1121870>>startxref1128502%%EOF5 0 obj<</Length 3995/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <pdf:Producer>PDFLaTeX</pdf:Producer>
+         <pdf:Keywords>eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations</pdf:Keywords>
+         <xmp:ModifyDate>2020-03-14T18:29:08+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2019-12-23T23:53:20Z</xmp:CreateDate>
+         <xmp:CreatorTool>HAL</xmp:CreatorTool>
+         <xmp:MetadataDate>2020-03-14T18:29:08+01:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:7dc942ba-2a58-11e2-0000-934f71e96c4d</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:3d07d742-c03b-6445-9c4a-54ce5e89fa6d</xmpMM:InstanceID>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A comprehensive study of Convergent and Commutative Replicated Data Types</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Marc Shapiro, Nuno Pregui√ßa, Carlos Baquero, Marek Zawirski</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Computer Science [cs]/Other [cs.OH]</rdf:li>
+               <rdf:li xml:lang="x-repair">Computer Science [cs]/Other [cs.OH]</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj6 0 obj<</Author(Marc Shapiro, Nuno PreguiÁa, Carlos Baquero, Marek Zawirski)/CreationDate(D:20191223235320Z)/Creator(HAL)/Keywords(eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations)/ModDate(D:20200314182908+01'00')/Producer(PDFLaTeX)/Subject(Computer Science [cs]/Other [cs.OH])/Title(A comprehensive study of Convergent and Commutative Replicated Data Types)>>endobj27 0 obj<</Annots[160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 1469 0 R 1470 0 R]/Contents 167 0 R/CropBox[0.0 0.0 595.28 841.89]/MediaBox[0.0 0.0 595.28 841.89]/Parent 2 0 R/Resources 168 0 R/Rotate 0/Type/Page>>endobj1469 0 obj<</AP<</N 1471 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/CreationDate(D:20200314182908+01'00')/F 4/M(D:20200314182908+01'00')/NM(3c87fe8a-d05b-0547-81e4-0030c5daf85c)/P 27 0 R/Popup 1470 0 R/QuadPoints[277.098 457.154 496.072 457.154 277.098 447.191 496.072 447.191 99.213 445.199 496.084 445.199 99.213 435.236 496.084 435.236 99.213 433.244 289.724 433.244 99.213 423.281 289.724 423.281]/Rect[96.5534 422.97 498.743 457.465]/Subj(Highlight)/Subtype/Highlight/T(ankushsharma)/Type/Annot>>endobj1470 0 obj<</F 28/Open false/Parent 1469 0 R/Rect[595.28 343.154 799.28 457.154]/Subtype/Popup/Type/Annot>>endobj1471 0 obj<</BBox[0.0 0.0 402.19 34.4952]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 1472 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj1472 0 obj<</BBox[0.0 0.0 402.19 34.4952]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 1473 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj1473 0 obj<</BBox[96.5534 422.97 498.743 457.465]/Filter[/FlateDecode]/FormType 1/Length 193/Matrix[1.0 0.0 0.0 1.0 -96.5534 -422.97]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+HâLê;nD1 {üÇ ÛáÛ¨î4õfõΩ~xQººŒy`¡∆§r"ÿ˙^ù9‡Ω8w%Åj 1¸4S≠lVhR
+CL1∑9ågÌô$<ññ„ÚaœfâJws»ô>ﬁix¨ØUÖL*Ü,~uı∑tmQ-U·î1m;G≠Á‰ß)%Ü˝7	’xCŒËÒŒ˛{rˆ„÷ƒ÷'-õ&ÈãóMì¥£w‚,æñˆ\\‹7`o»=ﬁŸ5˝
+0 ]Lendstreamendobjxref
+0 1
+0000000000 65535 f
+5 2
+0001128867 00000 n
+0001132938 00000 n
+27 1
+0001133414 00000 n
+1469 5
+0001133647 00000 n
+0001134152 00000 n
+0001134268 00000 n
+0001134616 00000 n
+0001134852 00000 n
+trailer<</Size 1474/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><6BFDED45C7A14A7BB018FA80847341DE>]/Prev 1128502>>startxref1135261%%EOF5 0 obj<</Length 3995/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c016 91.163616, 2018/10/29-16:58:49        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <pdf:Producer>PDFLaTeX</pdf:Producer>
+         <pdf:Keywords>eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations</pdf:Keywords>
+         <xmp:ModifyDate>2020-03-16T12:23:46+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2019-12-23T23:53:20Z</xmp:CreateDate>
+         <xmp:CreatorTool>HAL</xmp:CreatorTool>
+         <xmp:MetadataDate>2020-03-16T12:23:46+01:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:7dc942ba-2a58-11e2-0000-934f71e96c4d</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:cd2a3e33-d63f-4f43-82de-d4607928b7ed</xmpMM:InstanceID>
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A comprehensive study of Convergent and Commutative Replicated Data Types</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Marc Shapiro, Nuno Pregui√ßa, Carlos Baquero, Marek Zawirski</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Computer Science [cs]/Other [cs.OH]</rdf:li>
+               <rdf:li xml:lang="x-repair">Computer Science [cs]/Other [cs.OH]</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj6 0 obj<</Author(Marc Shapiro, Nuno PreguiÁa, Carlos Baquero, Marek Zawirski)/CreationDate(D:20191223235320Z)/Creator(HAL)/Keywords(eventual consistency, optimistic replication, replicated data types, distributed algorithms, distributed systems, Data replication, commutative operations)/ModDate(D:20200316122346+01'00')/Producer(PDFLaTeX)/Subject(Computer Science [cs]/Other [cs.OH])/Title(A comprehensive study of Convergent and Commutative Replicated Data Types)>>endobj30 0 obj<</Annots[187 0 R 188 0 R 189 0 R 1474 0 R 1475 0 R]/Contents 190 0 R/CropBox[0.0 0.0 595.28 841.89]/MediaBox[0.0 0.0 595.28 841.89]/Parent 2 0 R/Resources 191 0 R/Rotate 0/Type/Page>>endobj1474 0 obj<</AP<</N 1476 0 R>>/C[0.898041 0.133331 0.215683]/CreationDate(D:20200316112649+01'00')/F 4/M(D:20200316112649+01'00')/NM(04dc4053-722a-a749-b92d-c3df89728824)/P 30 0 R/Popup 1475 0 R/QuadPoints[99.2124 345.079 194.757 345.079 99.2124 335.116 194.757 335.116 116.365 329.148 496.064 329.148 116.365 319.185 496.064 319.185 99.2123 317.193 495.712 317.193 99.2123 307.23 495.712 307.23 99.2123 305.238 496.068 305.238 99.2123 295.275 496.068 295.275 99.2126 293.283 302.207 293.283 99.2126 283.32 302.207 283.32]/Rect[96.2414 282.698 499.038 345.702]/Subj(Cross-Out)/Subtype/StrikeOut/T(ankushsharma)/Type/Annot>>endobj1475 0 obj<</F 28/Open false/Parent 1474 0 R/Rect[595.28 231.079 799.28 345.079]/Subtype/Popup/Type/Annot>>endobj1476 0 obj<</BBox[96.2414 282.698 499.038 345.702]/FormType 1/Length 235/Matrix[1.0 0.0 0.0 1.0 -96.2414 -282.698]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+0.898041 0.133331 0.215683 RG
+0.6227 w
+99.2124 339.3859 m
+194.7566 339.3859 l
+S
+116.3654 323.455 m
+496.0639 323.455 l
+S
+99.2123 311.5 m
+495.712 311.5 l
+S
+99.2123 299.5451 m
+496.0675 299.5451 l
+S
+99.2126 287.5901 m
+302.207 287.5901 l
+S
+endstreamendobjxref
+0 1
+0000000000 65535 f
+5 2
+0001135626 00000 n
+0001139697 00000 n
+30 1
+0001140173 00000 n
+1474 3
+0001140374 00000 n
+0001141006 00000 n
+0001141122 00000 n
+trailer<</Size 1477/Root 1 0 R/Info 6 0 R/ID[<AD19C26080D8BBB74B9B334DDFD61195><CE82ACA153E545A79B8ED49AF17F83A9>]/Prev 1135261>>startxref1141554%%EOF
